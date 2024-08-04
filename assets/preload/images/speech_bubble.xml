@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="speech bubble.png">
+<SubTexture name="speech bubble normal0000" x="0" y="0" width="1056" height="260" frameX="-22" frameY="-17" frameWidth="1109" frameHeight="304" />
+<SubTexture name="Speech Bubble Normal Open0000" x="0" y="0" width="1056" height="260" frameX="-22" frameY="-17" frameWidth="1109" frameHeight="304" />
+</TextureAtlas>
